@@ -1,2 +1,2 @@
-# T1-tason-ohjelmointi
+# T1TasonOhjelmointi
 Tekijä: Ville Grundström
