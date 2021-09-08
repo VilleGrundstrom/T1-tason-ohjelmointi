@@ -5,3 +5,14 @@ C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\D
 C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.AssemblyInfoInputs.cache
 C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.AssemblyInfo.cs
 C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.csproj.CoreCompileInputs.cache
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.exe
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.deps.json
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.runtimeconfig.json
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.runtimeconfig.dev.json
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.dll
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\ref\SuosikkiNimi.dll
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\net5.0-windows\SuosikkiNimi.pdb
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.dll
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\ref\SuosikkiNimi.dll
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.pdb
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\net5.0-windows\SuosikkiNimi.genruntimeconfig.cache
