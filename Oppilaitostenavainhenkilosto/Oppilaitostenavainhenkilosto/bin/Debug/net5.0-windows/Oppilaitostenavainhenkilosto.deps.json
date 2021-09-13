@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Oppilaitostenavainhenkilosto/1.0.0": {
+        "runtime": {
+          "Oppilaitostenavainhenkilosto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oppilaitostenavainhenkilosto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
