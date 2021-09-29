@@ -1,0 +1,11 @@
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\bin\Debug\Opiskelijanhallintajarjestelma.exe.config
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\bin\Debug\Opiskelijanhallintajarjestelma.exe
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\bin\Debug\Opiskelijanhallintajarjestelma.pdb
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.csproj.AssemblyReference.cache
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.Form1.resources
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.Properties.Resources.resources
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.csproj.GenerateResource.cache
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.csproj.CoreCompileInputs.cache
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.exe
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.pdb
+C:\Users\Vilds\source\repos\T1-tason-ohjelmointi\Opiskelijanhallintajarjestelma\Opiskelijanhallintajarjestelma\obj\Debug\Opiskelijanhallintajarjestelma.opiskelijataulu.resources
