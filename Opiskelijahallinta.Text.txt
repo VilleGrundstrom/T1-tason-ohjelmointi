@@ -1,0 +1,1 @@
+Jostain syystä ei line 50 tunnista "oNro"
